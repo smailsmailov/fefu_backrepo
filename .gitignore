@@ -1,0 +1,6 @@
+venv 
+fefu
+*sqlite3
+manage.py
+__*__
+migrations
